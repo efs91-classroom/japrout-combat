@@ -24,6 +24,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "hero epee droite basse"
     },
+    "image5": {
+        "data": "hwQUABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwAAAAAMzdAAAPAAAA9+4AAPzSAAAPAAAA79/d3R8vb2YPAADg7t//3fL/YWYPAADg7t/d3f/5bwAAAAAA79/d3/L/YWYPAAAA8N7d3xwvb2YPAAAAAO4AAMzSAAAPAAAAdwAA////AAAPAABwBwDwv7v1DwAAAAAAAADwu1u1/wAAAAAAAADwW7u1+w8AAAAAAADwVbu7uw8AAAAAAADwW7u1+w8AAAAAAADwu1u1/wAAAAAAAADwv7v1DwAAAAAAAAAA////AAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "projectil_1"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
